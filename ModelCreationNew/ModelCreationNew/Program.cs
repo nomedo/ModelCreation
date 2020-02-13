@@ -7,7 +7,7 @@ namespace ModelCreationNew
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
-            Console.writeline("Great day for repository");
+            Console.WriteLine("Great day for repository");
         }
     }
 }
